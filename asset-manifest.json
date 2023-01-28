@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-thiago/static/css/main.45a1770a.css",
-    "main.js": "/portfolio-thiago/static/js/main.8ebaf5d7.js",
+    "main.css": "/portfolio-thiago/static/css/main.de224235.css",
+    "main.js": "/portfolio-thiago/static/js/main.0ce0b392.js",
     "static/js/787.2c3358f1.chunk.js": "/portfolio-thiago/static/js/787.2c3358f1.chunk.js",
-    "static/media/code-quiz.png": "/portfolio-thiago/static/media/code-quiz.50984e1dbabdbc6d0a9c.png",
-    "static/media/photo-port.png": "/portfolio-thiago/static/media/photo-port.a034e4530fe1dd18385b.png",
-    "static/media/ultimate-movies.png": "/portfolio-thiago/static/media/ultimate-movies.ead7994e448718851795.png",
-    "static/media/run-buddy.png": "/portfolio-thiago/static/media/run-buddy.ebf248dc3d22b899fb31.png",
-    "static/media/taskinator.png": "/portfolio-thiago/static/media/taskinator.b7d518ca4f88b133b1ce.png",
+    "static/media/code.png": "/portfolio-thiago/static/media/code.806e6733ddd65ba42e01.png",
+    "static/media/ultimate.png": "/portfolio-thiago/static/media/ultimate.82e7774a42d65596f534.png",
+    "static/media/oh.png": "/portfolio-thiago/static/media/oh.43d4c8726fed62e2d6d1.png",
+    "static/media/run.png": "/portfolio-thiago/static/media/run.74eb223c2e237bd82b5f.png",
     "static/media/react-logo.png": "/portfolio-thiago/static/media/react-logo.becbab0ab5d2271d2831.png",
-    "static/media/text-editor.png": "/portfolio-thiago/static/media/text-editor.e5cd31ee2061c9eb4337.png",
+    "static/media/task.png": "/portfolio-thiago/static/media/task.e3101981e6ce5a93f7f3.png",
+    "static/media/pass.png": "/portfolio-thiago/static/media/pass.81d8e405fbd067c1689b.png",
+    "static/media/resume-img.png": "/portfolio-thiago/static/media/resume-img.83217685303e2c7c169c.png",
+    "static/media/robot.png": "/portfolio-thiago/static/media/robot.7d48e3c3278a4165b21f.png",
     "static/media/express-logo.png": "/portfolio-thiago/static/media/express-logo.915b89629a5fefdb6ca0.png",
-    "static/media/password-generator.png": "/portfolio-thiago/static/media/password-generator.2211ceaf3e17fdac35a4.png",
     "static/media/mysql-logo.png": "/portfolio-thiago/static/media/mysql-logo.4fe76d0c8c2cd39a2766.png",
     "static/media/mongo-logo.png": "/portfolio-thiago/static/media/mongo-logo.41e505b098e3087319b8.png",
     "static/media/css-logo.png": "/portfolio-thiago/static/media/css-logo.19c8605d6b2861f5fbe0.png",
@@ -20,18 +21,17 @@
     "static/media/jquery-logo.png": "/portfolio-thiago/static/media/jquery-logo.2edbb1f16a90f0d12d51.png",
     "static/media/mongoose-logo.png": "/portfolio-thiago/static/media/mongoose-logo.998152e4bc5fdd366c2c.png",
     "static/media/photo.jpg": "/portfolio-thiago/static/media/photo.dd0db9f03c315cf49b6e.jpg",
-    "static/media/robot-gladiator.png": "/portfolio-thiago/static/media/robot-gladiator.1eab934d24a119041492.png",
     "static/media/node-logo.png": "/portfolio-thiago/static/media/node-logo.bc4b43cd5f20ba305059.png",
     "static/media/sequelize-logo.png": "/portfolio-thiago/static/media/sequelize-logo.36628f8bc0687ddebf85.png",
     "static/media/bootstrap-logo.png": "/portfolio-thiago/static/media/bootstrap-logo.2800bb3ed6b40097a8d7.png",
     "static/media/graphql-logo.png": "/portfolio-thiago/static/media/graphql-logo.000a899b6755ed3534fa.png",
     "index.html": "/portfolio-thiago/index.html",
-    "main.45a1770a.css.map": "/portfolio-thiago/static/css/main.45a1770a.css.map",
-    "main.8ebaf5d7.js.map": "/portfolio-thiago/static/js/main.8ebaf5d7.js.map",
+    "main.de224235.css.map": "/portfolio-thiago/static/css/main.de224235.css.map",
+    "main.0ce0b392.js.map": "/portfolio-thiago/static/js/main.0ce0b392.js.map",
     "787.2c3358f1.chunk.js.map": "/portfolio-thiago/static/js/787.2c3358f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45a1770a.css",
-    "static/js/main.8ebaf5d7.js"
+    "static/css/main.de224235.css",
+    "static/js/main.0ce0b392.js"
   ]
 }
