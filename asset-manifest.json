@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-thiago/static/css/main.de224235.css",
-    "main.js": "/portfolio-thiago/static/js/main.0ce0b392.js",
+    "main.css": "/portfolio-thiago/static/css/main.a853fb4a.css",
+    "main.js": "/portfolio-thiago/static/js/main.35a890fa.js",
     "static/js/787.2c3358f1.chunk.js": "/portfolio-thiago/static/js/787.2c3358f1.chunk.js",
     "static/media/code.png": "/portfolio-thiago/static/media/code.806e6733ddd65ba42e01.png",
     "static/media/ultimate.png": "/portfolio-thiago/static/media/ultimate.82e7774a42d65596f534.png",
@@ -9,8 +9,8 @@
     "static/media/run.png": "/portfolio-thiago/static/media/run.74eb223c2e237bd82b5f.png",
     "static/media/react-logo.png": "/portfolio-thiago/static/media/react-logo.becbab0ab5d2271d2831.png",
     "static/media/task.png": "/portfolio-thiago/static/media/task.e3101981e6ce5a93f7f3.png",
+    "static/media/resume-img.png": "/portfolio-thiago/static/media/resume-img.379603738354bb27d59d.png",
     "static/media/pass.png": "/portfolio-thiago/static/media/pass.81d8e405fbd067c1689b.png",
-    "static/media/resume-img.png": "/portfolio-thiago/static/media/resume-img.83217685303e2c7c169c.png",
     "static/media/robot.png": "/portfolio-thiago/static/media/robot.7d48e3c3278a4165b21f.png",
     "static/media/express-logo.png": "/portfolio-thiago/static/media/express-logo.915b89629a5fefdb6ca0.png",
     "static/media/mysql-logo.png": "/portfolio-thiago/static/media/mysql-logo.4fe76d0c8c2cd39a2766.png",
@@ -26,12 +26,12 @@
     "static/media/bootstrap-logo.png": "/portfolio-thiago/static/media/bootstrap-logo.2800bb3ed6b40097a8d7.png",
     "static/media/graphql-logo.png": "/portfolio-thiago/static/media/graphql-logo.000a899b6755ed3534fa.png",
     "index.html": "/portfolio-thiago/index.html",
-    "main.de224235.css.map": "/portfolio-thiago/static/css/main.de224235.css.map",
-    "main.0ce0b392.js.map": "/portfolio-thiago/static/js/main.0ce0b392.js.map",
+    "main.a853fb4a.css.map": "/portfolio-thiago/static/css/main.a853fb4a.css.map",
+    "main.35a890fa.js.map": "/portfolio-thiago/static/js/main.35a890fa.js.map",
     "787.2c3358f1.chunk.js.map": "/portfolio-thiago/static/js/787.2c3358f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de224235.css",
-    "static/js/main.0ce0b392.js"
+    "static/css/main.a853fb4a.css",
+    "static/js/main.35a890fa.js"
   ]
 }
