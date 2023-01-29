@@ -10,10 +10,26 @@ import codeQuiz from '../assets/sites/code.png';
 import robotGladiator from '../assets/sites/robot.png';
 import taskinator from '../assets/sites/task.png';
 import passwordGenerator from '../assets/sites/pass.png';
+import taskmaster from '../assets/sites/taskmaster.png';
 
 function Portfolio() {
   return (
     <div className='Portfolio'>
+      {/* Taskmaster */}
+      <Card className='card' border="dark" style={{ width: '18rem' }}>
+        <Card.Img variant="top" src={taskmaster} />
+        <Card.Body>
+          <Card.Title>Taskmaster</Card.Title>
+          <Card.Text>
+            Tasks Management App
+            <br />
+            .jQuery .Bootstrap
+          </Card.Text>
+          <Button variant="dark" href='https://thiago-nasciutti.github.io/taskmaster/' >Site</Button>&nbsp;
+          <Button variant="dark" href='https://github.com/thiago-nasciutti/taskmaster'>GitHub</Button>
+        </Card.Body>
+      </Card>
+
       {/* Ultimate Movies */}
       <Card className='card' border="dark" style={{ width: '18rem' }}>
         <Card.Img variant="top" src={ultimateMovie} />
