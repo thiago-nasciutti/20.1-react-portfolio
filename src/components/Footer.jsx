@@ -6,7 +6,7 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 function Footer() {
     return (
         <div className='footer'>
-            <h5 className='footerTitle'>2022 | Design made by Thiago Nasciutti</h5>
+            <h5 className='footerTitle'>2022 | Made in React by Thiago Nasciutti</h5>
             <div className='footerRight'>
                 nasciutti.thiago@gmail.com
                 <a className="linkedinIcon" href="https://www.linkedin.com/in/thiago-nasciutti/">

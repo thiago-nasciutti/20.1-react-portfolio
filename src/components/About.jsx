@@ -1,5 +1,5 @@
 import React from 'react'
-import photo from '../assets/photo.jpg';
+import photo from '../assets/photo.png';
 import nodeLogo from '../assets/tec/node-logo.png';
 import mongoLogo from '../assets/tec/mongo-logo.png';
 import reactLogo from '../assets/tec/react-logo.png';
@@ -24,9 +24,7 @@ const About = () => {
         <h3>Who am I?</h3>
         <img className="photo" src={photo} alt="thiago" />
         <p className='pgAbout'>I am a seasoned professional passionate about technology who decided to end his 12 years career as an Automation Engineer to pursue his dream of becoming a Full-Stack Software Developer.
-
           As a Software Developer, I’ve been focusing on React, JS, Node.js, MongoDB, Mongoose, Express, MySQL, Sequelize, GraphQL,Bootstrap, jQuery, CSS, HTML and Jest.
-
           I am also a certified Scrum Master and Project Manager Professional, with a great understanding of the Agile methodology and proven experience leading people and corporate projects. With demonstrated strong skills in communication, teamwork, organization, problem-solving and logical thinking, I am diligent, detail-oriented and willing to embrace challenges of all forms.</p>
       </div>
       <div className='tec'>

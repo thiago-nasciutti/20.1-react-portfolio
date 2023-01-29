@@ -385,4 +385,8 @@ textarea::placeholder {
     margin: 15px;
     box-shadow: 2px 5px px #888888;
   }
+
+  .pgAbout {
+    text-align: left;
+  }
 }
