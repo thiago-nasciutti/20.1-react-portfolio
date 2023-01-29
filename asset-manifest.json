@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-thiago/static/css/main.a3888d10.css",
-    "main.js": "/portfolio-thiago/static/js/main.e7afa7a3.js",
+    "main.js": "/portfolio-thiago/static/js/main.009ca483.js",
     "static/js/787.2c3358f1.chunk.js": "/portfolio-thiago/static/js/787.2c3358f1.chunk.js",
     "static/media/code.png": "/portfolio-thiago/static/media/code.806e6733ddd65ba42e01.png",
     "static/media/ultimate.png": "/portfolio-thiago/static/media/ultimate.82e7774a42d65596f534.png",
@@ -11,6 +11,7 @@
     "static/media/react-logo.png": "/portfolio-thiago/static/media/react-logo.becbab0ab5d2271d2831.png",
     "static/media/task.png": "/portfolio-thiago/static/media/task.e3101981e6ce5a93f7f3.png",
     "static/media/resume-img.png": "/portfolio-thiago/static/media/resume-img.379603738354bb27d59d.png",
+    "static/media/taskmaster.png": "/portfolio-thiago/static/media/taskmaster.a47acfffe86b81e1ebe0.png",
     "static/media/pass.png": "/portfolio-thiago/static/media/pass.81d8e405fbd067c1689b.png",
     "static/media/robot.png": "/portfolio-thiago/static/media/robot.7d48e3c3278a4165b21f.png",
     "static/media/express-logo.png": "/portfolio-thiago/static/media/express-logo.915b89629a5fefdb6ca0.png",
@@ -27,11 +28,11 @@
     "static/media/graphql-logo.png": "/portfolio-thiago/static/media/graphql-logo.000a899b6755ed3534fa.png",
     "index.html": "/portfolio-thiago/index.html",
     "main.a3888d10.css.map": "/portfolio-thiago/static/css/main.a3888d10.css.map",
-    "main.e7afa7a3.js.map": "/portfolio-thiago/static/js/main.e7afa7a3.js.map",
+    "main.009ca483.js.map": "/portfolio-thiago/static/js/main.009ca483.js.map",
     "787.2c3358f1.chunk.js.map": "/portfolio-thiago/static/js/787.2c3358f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3888d10.css",
-    "static/js/main.e7afa7a3.js"
+    "static/js/main.009ca483.js"
   ]
 }
