@@ -340,7 +340,7 @@ textarea::placeholder {
   border: 0;
   cursor: pointer;
   background-color: rgb(251, 45, 22);
-  font-size: 18px;
+  font-size: 20px;
   transition: background-color, transform 0.8s;
   color: white;
   padding: 10px;
@@ -364,5 +364,25 @@ textarea::placeholder {
 .resumeImg {
   margin-top: 20px;
   margin-bottom: 80px;
-  width: 800px
+  width: 60vw
+}
+
+@media screen and (max-width:638px) {
+  .footer {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .resumeImg {
+    margin-top: 20px;
+    margin-bottom: 80px;
+    width: 90vw
+  }
+
+  .download {
+    font-size: 10px;
+    padding: 5px;
+    margin: 15px;
+    box-shadow: 2px 5px px #888888;
+  }
 }

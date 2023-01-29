@@ -6,7 +6,7 @@ const Resume = () => {
     return (
         <div className='resumePg'>
             <a href="resume_Thiago.pdf" download>
-                <button className='download'>Download</button>
+                <button className='download'>Download My Resume</button>
             </a>
             <img className='resumeImg' src={resumeImg} alt="resume" />
         </div>
