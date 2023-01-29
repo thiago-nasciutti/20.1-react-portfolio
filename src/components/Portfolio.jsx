@@ -23,7 +23,7 @@ function Portfolio() {
           <Card.Text>
             Tasks Management App
             <br />
-            .jQuery .Bootstrap
+            <p className='pt'> .jQuery .Bootstrap </p>
           </Card.Text>
           <Button variant="dark" href='https://thiago-nasciutti.github.io/taskmaster/' >Site</Button>&nbsp;
           <Button variant="dark" href='https://github.com/thiago-nasciutti/taskmaster'>GitHub</Button>
@@ -38,7 +38,7 @@ function Portfolio() {
           <Card.Text>
             Select and save movies by rating
             <br />
-            .HTML .CSS .jQuery
+            <p className='pt'>.HTML .CSS .jQuery</p>
           </Card.Text>
           <Button variant="dark" href='https://thiago-nasciutti.github.io/Ultimate-Movie/' >Site</Button>&nbsp;
           <Button variant="dark" href='https://github.com/thiago-nasciutti/Ultimate-Movie'>GitHub</Button>
@@ -53,7 +53,7 @@ function Portfolio() {
           <Card.Text>
             Photography Platform
             <br />
-            .React
+            <p className='pt'>.React</p>
           </Card.Text>
           <Button variant="dark" href='https://thiago-nasciutti.github.io/photo-port/'>Site</Button>&nbsp;
           <Button variant="dark" href='https://github.com/thiago-nasciutti/photo-port'>GitHub</Button>
@@ -68,9 +68,7 @@ function Portfolio() {
           <Card.Text>
             Landing Page
             <br />
-            .HTML .CSS
-
-
+            <p className='pt'>.HTML .CSS</p>
           </Card.Text>
           <Button variant="dark" href='https://thiago-nasciutti.github.io/run-buddy/'>Site</Button>&nbsp;
           <Button variant="dark" href='https://github.com/thiago-nasciutti/run-buddy'>GitHub</Button>
@@ -85,7 +83,7 @@ function Portfolio() {
           <Card.Text>
             Timed Coding Quiz
             <br />
-            .JS .HTML .CSS
+            <p className='pt'>.JS .HTML .CSS</p>
 
           </Card.Text>
           <Button variant="dark" href='https://thiago-nasciutti.github.io/code-quiz/' >Site</Button>&nbsp;
@@ -101,7 +99,7 @@ function Portfolio() {
           <Card.Text>
             Generate Password
             <br />
-            .JS .HTML .CSS
+            <p className='pt'>.JS .HTML .CSS</p>
 
           </Card.Text>
           <Button variant="dark" href='https://thiago-nasciutti.github.io/password-generator/'>Site</Button>&nbsp;
@@ -117,7 +115,7 @@ function Portfolio() {
           <Card.Text>
             Game
             <br />
-            .JS
+            <p className='pt'>.JS</p>
           </Card.Text>
           <Button variant="dark" href='https://thiago-nasciutti.github.io/robot-gladiators/'>Site</Button>&nbsp;
           <Button variant="dark" href='https://github.com/thiago-nasciutti/robot-gladiators'>GitHub</Button>
@@ -132,7 +130,7 @@ function Portfolio() {
           <Card.Text>
             Kanban Board
             <br />
-            .JS .HTML .CSS
+            <p className='pt'>.JS .HTML .CSS</p>
 
           </Card.Text>
           <Button variant="dark" href='https://thiago-nasciutti.github.io/taskinator/'>Site</Button>&nbsp;
